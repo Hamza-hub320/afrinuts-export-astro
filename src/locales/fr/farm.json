@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "La Plantation de Cajou AfriNuts Export",
+    "subtitle": "Cultivation des meilleures noix de cajou d'Afrique de l'Ouest grâce à l'agriculture régénératrice"
+  },
+  "overview": {
+    "heading": "50 Hectares de Production de Cajou Premium",
+    "description": "Située à Odienné, épicentre de la production de noix de cajou en Côte d'Ivoire, notre plantation familiale est développée avec des techniques agricoles climato-intelligentes pour produire des noix brutes de qualité premium avec une traçabilité complète du sol à l'expédition."
+  },
+  "stats": {
+    "area": "35 Hectares en culture",
+    "areaLabel": "Superficie Totale",
+    "location": "Odienné, Côte d'Ivoire",
+    "locationLabel": "Coordonnées Géographiques",
+    "phase": "2026-2031",
+    "phaseLabel": "Feuille de Route",
+    "practices": "Agriculture Régénératrice",
+    "practicesLabel": "Méthodologie Agricole"
+  },
+  "timeline": {
+    "title": "Phases de Développement Stratégique",
+    "items": [
+      {
+        "title": "Aménagement du Terrain",
+        "description": "Cartographie complète des sols, défrichement sélectif et installation d'infrastructures d'irrigation de précision"
+      },
+      {
+        "title": "Plantation",
+        "description": "Mise en place systématique de cultivars de cajou à haut rendement sur 35 hectares avec espacement optimal"
+      },
+      {
+        "title": "Première Récolte Commerciale",
+        "description": "Rendement initial projeté de 8 à 10 tonnes par hectare des arbres matures"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Progrès de la Plantation",
+    "alt1": "Verger de cajou en développement avec jeunes plants",
+    "alt2": "Techniques durables de préparation des terres"
+  },
+  "sustainability": {
+    "title": "Notre Engagement d'Agriculture Régénératrice",
+    "items": [
+      {
+        "title": "Gestion Hydrique",
+        "description": "Systèmes d'irrigation goutte-à-goutte réduisant la consommation d'eau de 40% par rapport aux méthodes traditionnelles"
+      },
+      {
+        "title": "Culture Biologique",
+        "description": "Gestion intégrée des parasites et fertilisants organiques pour préserver l'écosystème"
+      },
+      {
+        "title": "Régénération des Sols",
+        "description": "Cultures de couverture et apports de compost pour améliorer la fertilité à long terme"
+      }
+    ]
+  }
+}

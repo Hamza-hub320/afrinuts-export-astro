@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "welcome": "Bienvenue chez AfriNuts Export",
+    "tagline": "De notre ferme familiale à votre table : Noix de cajou certifiées halal cultivées avec intention",
+    "learnMore": "Découvrez notre mission",
+    "products": "Découvrez notre récolte",
+    "viewStory": "Rencontrez notre famille"
+  },
+  "aboutPreview": {
+    "title": "Enracinés à Odienné, Connectés au Monde",
+    "description": "Trois générations d'expertise en noix de cajou rencontrent l'agro-industrie éthique moderne. Fondée par la famille Sangaré en 2023, nous révolutionnons l'industrie de la noix de cajou en Afrique de l'Ouest grâce à l'intégration verticale, la responsabilité sociale islamique et l'innovation durable.",
+    "readMore": "Notre parcours"
+  },
+  "products": {
+    "title": "Nos produits premium",
+    "description": "Découvrez notre gamme de produits à base de noix de cajou certifiés halal, des noix brutes aux spécialités à valeur ajoutée répondant aux normes de qualité internationales.",
+    "viewProducts": "Voir la gamme"
+  },
+  "farm": {
+    "title": "Notre ferme durable",
+    "description": "50 hectares de terres familiales cultivées avec des pratiques durables, combinant savoir-faire traditionnel et techniques agricoles modernes.",
+    "visitFarm": "Visiter notre ferme"
+  },
+  "sustainability": {
+    "title": "Engagement envers la durabilité",
+    "description": "Nous mettons en œuvre des méthodes agricoles écologiques qui protègent la biodiversité tout en autonomisant les communautés locales grâce à des pratiques de commerce équitable.",
+    "learnMore": "Notre approche durable"
+  },
+  "news": {
+    "title": "Actualités et mises à jour",
+    "description": "Restez informé de nos derniers développements, rapports de récolte et expansions sur le marché mondial de la noix de cajou.",
+    "readMore": "Dernières nouvelles"
+  },
+  "contact": {
+    "title": "Prêt à travailler avec nous ?",
+    "description": "Que vous soyez acheteur, distributeur ou agriculteur, nous serions ravis d'avoir de vos nouvelles.",
+    "getInTouch": "Contactez notre équipe"
+  }
+}

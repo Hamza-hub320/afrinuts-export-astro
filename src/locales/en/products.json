@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Our Premium Cashew Products",
+    "subtitle": "Ethically sourced from Odienné's fertile lands to global markets"
+  },
+  "intro": {
+    "title": "Traceable Quality from Farm to Market",
+    "description": "While our processing facility will launch in 2031 to expand our product line, we currently offer premium raw cashews sourced from our 50-hectare family farm and trusted partner growers in Ivory Coast's cashew belt."
+  },
+  "items": [
+    {
+      "name": "Raw Cashew Nuts",
+      "description": "Sun-dried, hand-sorted cashews",
+      "features": [
+        "Grade A quality",
+        "Available in 50kg export-grade jute bags",
+        "Traceable to partner farms in Ivory Coast"
+      ],
+      "available": true,
+      "backgroundImage": "raw-cashew.jpg",
+      "icon": "FaSeedling"
+    },
+    {
+      "name": "Cashew Kernels",
+      "description": "Precision-processed kernels",
+      "features": [
+        "Multiple grades: W320, W240, W180",
+        "HACCP-certified processing",
+        "Vacuum-packed for freshness"
+
+      ],
+      "comingSoon": "Production begins Q1 2031",
+      "available": false,
+      "backgroundImage": "cashew-kernels.jpg",
+      "icon": "FaWeightHanging"
+    },
+    {
+      "name": "Cashew Butter",
+      "description": "100% pure, single-origin cashew butter with no additives",
+      "features": [
+        "Creamy texture from premium Ivory Coast cashews",
+        "Rich in healthy fats (18g per serving)",
+        "Vegan and paleo-friendly"
+      ],
+      "comingSoon": "Production begins Q1 2031",
+      "available": false,
+      "backgroundImage": "cashew-butter.jpg",
+      "icon": "FaIndustry"
+    },
+    {
+      "name": "Cashew Nut Shell Liquid",
+      "description": "High-value industrial byproduct from our processing operations",
+      "features": [
+        "Used in paints, varnishes and brake linings",
+        "Industrial grade quality",
+        "Available in bulk quantity"
+      ],
+      "comingSoon": "Production begins Q1 2031",
+      "available": false,
+      "backgroundImage": "cashew-nut-shell-liquid.jpg",
+      "icon": "FaLeaf"
+    },
+    {
+      "name": "Roasted Cashews",
+      "description": "Premium dry-roasted cashews with optimal crunch",
+      "features": [
+        "Three varieties: Natural, Lightly Salted, Spiced",
+        "Slow-roasted to preserve nutrients",
+        "Rich in copper, magnesium and antioxidants"
+      ],
+      "comingSoon": "Production begins Q1 2031",
+      "available": false,
+      "backgroundImage": "roasted-cashew.jpg",
+      "icon": "FaLeaf"
+    },
+    {
+      "name": "Cashew Milk",
+      "description": "Creamy plant-based milk alternative",
+      "features": [
+        "Fortified with calcium & vitamin D",
+        "Low sugar (2g per 100ml)",
+        "Shelf-stable UHT packaging"
+      ],
+      "comingSoon": "Production begins Q1 2031",
+      "available": false,
+      "backgroundImage": "cashew-milk.jpg",
+      "icon": "FaLeaf"
+    }
+  ],
+  "buttons": {
+    "requestQuote": "Request Quote"
+  },
+  "cta": {
+    "title": "Partner With Us",
+    "subtitle": "For wholesale inquiries, product samples, or future availability",
+    "button": "Contact Our Sales Team"
+  }
+}

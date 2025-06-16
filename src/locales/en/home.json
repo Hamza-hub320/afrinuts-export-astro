@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "welcome": "Welcome to AfriNuts Export",
+    "tagline": "From Our Family Farm to Your Table: Halal-Certified Cashews Grown with Purpose",
+    "learnMore": "Discover Our Mission",
+    "contact": "Experience Our Harvest",
+    "viewStory": "Meet Our Family"
+  },
+  "aboutPreview": {
+    "title": "Rooted in Odienné, Reaching the World",
+    "description": "Three generations of cashew expertise meet modern ethical agribusiness. Founded by the Sangare family in 2023, we're revolutionizing West Africa's cashew industry through vertical integration, Islamic social responsibility, and sustainable innovation.",
+     "readMore": "About Our Journey"
+  },
+  "products": {
+    "title": "Our Premium Products",
+    "description": "Discover our range of halal-certified cashew products, from raw nuts to value-added specialties that meet international quality standards.",
+    "viewProducts": "View Product Line"
+  },
+  "farm": {
+    "title": "Our Sustainable Farm",
+    "description": "50 hectares of family-owned land cultivated with sustainable practices, combining traditional knowledge with modern agricultural techniques.",
+    "visitFarm": "Tour Our Farm"
+  },
+  "sustainability": {
+    "title": "Commitment to Sustainability",
+    "description": "We implement eco-friendly farming methods that protect biodiversity while empowering local communities through fair trade practices.",
+    "learnMore": "Our Sustainability Approach"
+  },
+  "news": {
+    "title": "News & Updates",
+    "description": "Stay informed about our latest developments, harvest reports, and market expansions in the global cashew industry.",
+    "readMore": "Latest News"
+  },
+  "contact": {
+    "title": "Ready to Partner With Us?",
+    "description": "Whether you're a buyer, distributor, or fellow farmer, we'd love to hear from you.",
+    "getInTouch": "Contact Our Team"
+  }
+}

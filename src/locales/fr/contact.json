@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "Contactez AfriNuts Export",
+    "subtitle": "Opportunités de partenariat, demandes de produits ou informations sur les investissements"
+  },
+  "form": {
+    "title": "Envoyez-nous un Message",
+    "name": "Nom Complet*",
+    "email": "Email Professionnel*",
+    "subject": "Objet*",
+    "message": "Votre Message*",
+    "submit": "Envoyer la Demande",
+    "sending": "Envoi en Cours..."
+  },
+  "info": {
+    "title": "Siège Social",
+    "address": "Odienné, Côte d'Ivoire",
+    "phone": "Téléphone",
+    "email": "Email",
+    "hours": "Lundi-Vendredi: 8h00 - 17h00 GMT",
+    "businessHours": "Heures d'Ouverture"
+  },
+  "map": {
+    "title": "Notre Siège Opérationnel"
+  },
+  "success": {
+    "title": "Merci pour Votre Message",
+    "message": "Votre demande a bien été reçue. Notre équipe vous répondra dans les 2 jours ouvrés.",
+    "close": "Retour au Site"
+  },
+  "errors": {
+    "name": "Veuillez indiquer votre nom complet",
+    "emailRequired": "Une adresse email valide est requise",
+    "emailInvalid": "Veuillez saisir une adresse email valide",
+    "subject": "Veuillez préciser l'objet de votre demande",
+    "message": "Veuillez inclure un message détaillé",
+    "fileSize": "Taille maximale du fichier dépassée (5MB maximum)",
+    "submit": "Erreur de transmission. Veuillez nous écrire directement à contact@afrinutsexport.com"
+  },
+
+  "weather": {
+    "error": "Informations météorologiques actuellement indisponibles",
+    "loading": "Chargement des données météorologiques...",
+    "feelsLike": "Ressenti",
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "kmh": "km/h",
+    "currentWeather": "Météo actuelle à Odienné"
+  }
+}
